@@ -1,17 +1,18 @@
 {
-  "name": "emailjs",
+  "name": "ldcvia-emailjs",
   "description": "send text/html emails and attachments (files, streams and strings) from node.js to any smtp server",
   "version": "1.0.0",
-  "author": "eleith",
+  "author": "whitemx",
   "contributors": [
     "izuzak",
     "Hiverness",
     "mscdex",
-    "jimmybergman"
+    "jimmybergman",
+    "eleith"
   ],
   "repository": {
     "type": "git",
-    "url": "http://github.com/eleith/emailjs.git"
+    "url": "http://github.com/londc/emailjs.git"
   },
   "dependencies": {
     "addressparser": "^0.3.2",
